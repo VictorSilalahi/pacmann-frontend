@@ -30,6 +30,7 @@ Aplikasi frontend sebagai interface untuk : mendaftarkan user baru, login, menam
 ```
 python -m venv venv
 .\venv\scripts\activate
+pip install -r requirements.txt
 python run.py
 ```
 
