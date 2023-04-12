@@ -41,6 +41,7 @@ python run.py
 * app\todos\todos.py ---> file routing untuk menampilkan halaman todos.html
 * app\static\ ---> folder untuk menyimpan css, javascript dan images
 * app\templates\ ---> folder untuk menyimpan halaman-halaman html
+* app\db ---> folder untuk menyimpan backup database postgresql
 
 
 ## Authors
