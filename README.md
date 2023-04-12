@@ -4,7 +4,8 @@ Pacmann Frontend
 
 ## Description
 
-Aplikasi frontend sebagai interface untuk : mendaftarkan user baru, login, menambah/edit/hapus/ubah status Todo List
+Aplikasi frontend sebagai interface untuk : mendaftarkan user baru, login, menambah/edit/hapus/ubah status Todo List.
+Aplikasi terkait adalah Pacmann Backend yang dapat dilihat di link berikut : https://github.com/VictorSilalahi/pacmann-backend
 
 ## Getting Started
 
